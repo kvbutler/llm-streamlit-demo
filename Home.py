@@ -18,3 +18,5 @@ Leveraging the power of Langchain, the creation of chatbots becomes effortless. 
 
 To explore sample usage of each chatbot, please navigate to the corresponding chatbot section.
 """)
+
+st.balloons()
